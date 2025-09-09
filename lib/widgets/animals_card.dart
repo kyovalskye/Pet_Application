@@ -15,7 +15,7 @@ class AnimalsCard extends StatelessWidget {
   Widget build(BuildContext context) {
     final animals = [
       {
-        "name": "Rigby The Cat",
+        "name": "Rigby",
         "location": "Austin, US",
         "age": "6 months",
         "gender": "Female",
@@ -35,7 +35,7 @@ class AnimalsCard extends StatelessWidget {
             "Doggo adalah anjing Golden Retriever dari Sydney yang suka berenang di pantai Bondi. Di usia 3 tahun, dia sudah jadi sahabat setia yang selalu ceria.",
       },
       {
-        "name": "Faded Cat",
+        "name": "Faded",
         "location": "Tokyo, JP",
         "age": "1.5 years",
         "gender": "Male",
